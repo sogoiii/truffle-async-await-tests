@@ -9,16 +9,20 @@
     "web3",
     "solidity"
   ],
-  "scripts": {
-    "test": "truffle test"
-  },
   "author": {
     "name": "Angello Pozo",
     "email": "angellopozo@gmail.com",
     "url": "https://github.com/sogoiii"
   },
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sogoiii/truffle-async-await-tests.git"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
   "dependencies": {
     "web3": "^0.19.1"
-  }
+  },
+  "license": "MIT"
 }
